@@ -6,6 +6,8 @@ public class Pessoa {
 
 	private String endereco;
 
+	private String sobrenome;
+
 	public String getEndereco() {
 		return endereco;
 	}
