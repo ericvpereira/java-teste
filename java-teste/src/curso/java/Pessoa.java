@@ -5,16 +5,6 @@ public class Pessoa {
 	private String nome;
 
 	private String endereco;
-	
-	private String endereco2;
-
-	public String getEndereco2() {
-		return endereco2;
-	}
-
-	public void setEndereco2(String endereco2) {
-		this.endereco2 = endereco2;
-	}
 
 	public String getEndereco() {
 		return endereco;
